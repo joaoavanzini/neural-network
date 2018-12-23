@@ -1,5 +1,5 @@
 # coding=<ASCII>
-# python 2.7 pip
+# python 2.7
 # machine learning, neural networks
 # features - two properties: how time the person sleep + how time the person study, then that results note of your test
 # features 8 + 4 -> 7
